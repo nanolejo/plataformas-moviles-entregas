@@ -1,2 +1,1 @@
-# plataformas-moviles-entregas
-Entregas para plataformas moviles
+Entregas para plataformas moviles de Alejo Imanol Garcìa.
